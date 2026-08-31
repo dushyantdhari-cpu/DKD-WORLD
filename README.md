@@ -1,2 +1,5 @@
 # DKD-WORLD
-MY GITHUB REPOSITORY FOR PRACTICE
+
+This is my first GitHub repository for practice.
+
+I am learning GitHub step by step as a beginner.
